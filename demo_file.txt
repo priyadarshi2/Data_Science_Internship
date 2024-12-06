@@ -1,1 +1,3 @@
 this is my demo file
+
+- customer wise category data total purchase, total count of the category
